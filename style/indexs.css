@@ -1,0 +1,49 @@
+<html>
+
+<head>
+
+<style>
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: lightgreen;
+    color:red;
+}
+.h{
+    color:crimson;
+    
+}
+
+.img{
+    width:98px;
+    height:30px;
+}
+
+.nav li{
+    padding-left:35px;
+    font-size:17px;
+    padding: 8px;
+    margin: 4px;
+    font-weight: 600;
+    color:rebeccapurple;
+}
+
+.nav li a{
+    color:blue;
+}
+
+.nav li a:hover{
+    color:red;
+}
+
+
+
+</style>
+
+</head>
+
+</html>
